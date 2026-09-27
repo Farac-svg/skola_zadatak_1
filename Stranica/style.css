@@ -1,6 +1,7 @@
 
 body {
   padding-top: 330px;
+  
 }
 
 .sticky-shrinknav-menu {
@@ -13,7 +14,7 @@ body {
   height: 3.75rem;
   line-height: 3.75rem;
   width: 100%;
-  background-color: rgba(23, 121, 186, 0.1);
+  background-color: rgba(255, 165, 0, 0.1);
   transition: all 0.5s ease;
 }
 
@@ -27,7 +28,7 @@ body {
 }
 
 .sticky-shrinknav-menu a {
-  color: #fefefe;
+  color: #0a0a0a;
 }
 
 .sticky-shrinknav-header-title {
@@ -37,7 +38,7 @@ body {
       -ms-transform: translateY(-1.875rem);
           transform: translateY(-1.875rem);
   margin-bottom: 0;
-  color: #fefefe;
+  color: #0a0a0a;
 }
 
 .sticky-shrinknav-header {
@@ -52,7 +53,7 @@ body {
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background-color: #2196e3;
+  background-color: #FFA500;
   text-align: center;
   position: fixed;
   top: 0;
@@ -67,7 +68,7 @@ body.sticky-shrinknav-wrapper {
 
 body.sticky-shrinknav-wrapper .sticky-shrinknav-header {
   height: 3.75rem;
-  background-color: rgba(23, 121, 186, 0.9);
+  background-color: #FFA500;
 }
 
 body.sticky-shrinknav-wrapper .sticky-shrinknav-header .sticky-shrinknav-header-title {
@@ -84,7 +85,7 @@ body.sticky-shrinknav-wrapper .sticky-shrinknav-header .sticky-shrinknav-header-
 }
 
 .responsive-blog-post p {
-  color: #8a8a8a;
+  color:#0a0a0a;
 }
 
 
@@ -113,7 +114,7 @@ body.sticky-shrinknav-wrapper .sticky-shrinknav-header .sticky-shrinknav-header-
 
 .responsive-blog-post .date {
   font-size: 0.8rem;
-  color: #8a8a8a;
+  color:#0a0a0a;
 }
 
 
@@ -274,11 +275,11 @@ body.sticky-shrinknav-wrapper .sticky-shrinknav-header .sticky-shrinknav-header-
   text-transform: uppercase;
   letter-spacing: 1px;
   font-size: 1em;
-  color: #404040;
+  color: #0a0a0a;
 }
 
 .featured-image-block a:hover p {
-  color: #1779ba;
+  color: #FFA500;
 }
 
 
@@ -289,7 +290,7 @@ body.sticky-shrinknav-wrapper .sticky-shrinknav-header .sticky-shrinknav-header-
   margin: 0 auto;
   background-color: rgba(54, 54, 54, 0.8);
   padding: 20px;
-  color: #fefefe;
+  color: #0a0a0a;
 }
 
 .translucent-form-overlay .columns.row {
@@ -319,14 +320,14 @@ body.sticky-shrinknav-wrapper .sticky-shrinknav-header .sticky-shrinknav-header-
 
 
 .three-column-footer-contact-form-container {
-  background-color: #8a8a8a;
+  background-color: #0a0a0a;
 }
 
 .three-column-footer-contact-form-container .three-column-footer-contact-form {
   max-width: 75rem;
   margin-right: auto;
   margin-left: auto;
-  color: #e6e6e6;
+  color: #FFA500;
   padding: 3.75rem 0;
 }
 
